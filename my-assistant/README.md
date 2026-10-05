@@ -10,7 +10,7 @@ one. Nothing requires a credit card anywhere.
 |---|---|---|
 | `GROQ_API_KEY` | jokes, search answers, headline matching | console.groq.com |
 | `TAVILY_API_KEY` | live web search (news, general search) | tavily.com |
-| `WOLFRAM_APP_ID` | authoritative math (optional — local sympy covers most) | developer.wolframalpha.com |
+| `WOLFRAM_APP_ID` | authoritative math | developer.wolframalpha.com |
 
 Arthur works without any of these, each feature falls back to a
 local, offline version automatically. Setting the keys just upgrades
