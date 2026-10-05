@@ -1,0 +1,9 @@
+nltk
+requests
+flet
+sympy
+pytesseract
+pillow
+groq
+tavily-python
+llama-cpp-python

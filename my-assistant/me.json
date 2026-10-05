@@ -1,0 +1,41 @@
+{
+  "preferences": {
+    "favorite_food": "pizza"
+  },
+  "contacts": {
+    "mumma": "+91XXXXXXXXXX",
+    "arghya": "+91XXXXXXXXXX"
+  },
+  "alarms": [
+    {
+      "id": 1,
+      "time": "07:30",
+      "label": "Wake up",
+      "sound": "sounds/rooster.mp3",
+      "enabled": true
+    }
+  ],
+  "reminders": [
+    {
+      "id": 1,
+      "time": "18:00",
+      "text": "Water the plants",
+      "done": false
+    },
+    {
+      "id": 2,
+      "time": "4pm",
+      "text": "put my location on",
+      "done": false
+    }
+  ],
+  "jokes": [
+    "Why do programmers prefer dark mode? Because light attracts bugs.",
+    "I told my computer I needed a break, and it froze."
+  ],
+  "facts": [
+    "Honey never spoils.",
+    "Octopuses have three hearts."
+  ],
+  "saved_news": []
+}
